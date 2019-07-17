@@ -1,3 +1,5 @@
-**CAUTION**
+# eagle-cream-dxf
 
-Further development will be continued on [ssci-eagle-public repository](https://github.com/SWITCHSCIENCE/ssci-eagle-public).
+ULP for generating set of DXF files from cream layers. For DIY laser-cut PCB stencils.
+
+Original work: https://github.com/SWITCHSCIENCE/ssci-eagle-public
